@@ -198,7 +198,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Oct 2023 - present",
     points: [
-      "Gained proficiency in Full Stack Web Development with React and Django, handling end-to-end solutions.",
+      "Gained proficiency in Full Stack Web Development with React and Django, handling end-to-end solutions and AWS.",
       "Demonstrated DevOps skills by hosting the production branch on AWS EC2, ensuring seamless deployment.",
       "Managed Git tasks efficiently and contributed to codebase in React and Django for web development.",
       "Engaged in Agile sprint meetings, fostering collaboration within cross-functional teams.",
