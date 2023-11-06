@@ -33,6 +33,8 @@ import {
   expensetracker,
   vgg,
   responsive,
+  janah,
+  aws,
 } from "../assets";
 
 export const navLinks = [
@@ -122,6 +124,10 @@ const technologies = [
     name: "Visual Studio Code",
     icon: vsc,
   },
+  {
+    name: "AWS",
+    icon: aws,
+  },
 ];
 
 const experiences = [
@@ -177,12 +183,25 @@ const experiences = [
     title: "Hospitality Team Member",
     company_name: "Priston Mill",
     icon: priston,
-    iconBg: "#E6DEDD",
+    iconBg: "#383E56",
     date: "Mar 2022 - present",
     points: [
       "Worked in a large team to deliver positive guest experiences.",
       "Delivered efficient five-star service in a fast-paced, fine dining establishment, serving [85]+ guests per shift.",
       "Showed equanimity in stressful situations and managed time constraints.",
+    ],
+  },
+  {
+    title: "Software Engineering Intern",
+    company_name: "Janah Cycle",
+    icon: janah,
+    iconBg: "#E6DEDD",
+    date: "Oct 2023 - present",
+    points: [
+      "Gained proficiency in Full Stack Web Development with React and Django, handling end-to-end solutions.",
+      "Demonstrated DevOps skills by hosting the production branch on AWS EC2, ensuring seamless deployment.",
+      "Managed Git tasks efficiently and contributed to codebase in React and Django for web development.",
+      "Engaged in Agile sprint meetings, fostering collaboration within cross-functional teams.",
     ],
   },
 ];

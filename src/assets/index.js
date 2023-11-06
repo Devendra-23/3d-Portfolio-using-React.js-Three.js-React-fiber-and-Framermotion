@@ -20,6 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import aws from "./tech/AWS.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -32,6 +33,7 @@ import tripguide from "./tripguide.png";
 import mumbai from "./company/Mumbai.png";
 import trivia from "./company/Trivia.png";
 import priston from "./company/Priston.png";
+import janah from "./company/Janah.png";
 import smart from "./company/Smart.png";
 import bath from "./company/Bath.png";
 import python from "./tech/python.png";
@@ -72,6 +74,7 @@ export {
   mumbai,
   trivia,
   priston,
+  janah,
   smart,
   bath,
   vsc,
@@ -79,4 +82,5 @@ export {
   vgg,
   expensetracker,
   responsive,
+  aws,
 };
