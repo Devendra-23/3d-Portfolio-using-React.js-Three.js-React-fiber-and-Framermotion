@@ -133,7 +133,6 @@ const experiences = [
     date: "August 2017 - August 2021",
     points: [
       "Fundamentals of computer science, including programming concepts, algorithms, data structures, and software engineering principles.",
-      "Knowledge of computer architecture and operating systems, understanding how hardware and software interact at a low level.",
       "Strong analytical and problem-solving skills, as well as the ability to adapt to new technologies and learn continuously in a rapidly evolving field.",
       "Bachelors Project: American Sign language (ASL) bi-lingual translator.",
     ],
@@ -157,7 +156,6 @@ const experiences = [
     iconBg: "#383E56",
     date: "Apr 2020 - Jul 2020",
     points: [
-      "Gained expertise in Python programming, including object-oriented programming (OOP) principles, to handle the backend logic and data manipulation.",
       "Utilized SQL to design and create a robust database schema for storing and managing student information, including tables for student details, courses, grades.",
       " Developed a Student Management System project with the use of Tkinter, Python Database Connection and Data Science.",
       "Gained knowledge of several Python 3. x related technologies, including Data Science, Tkinter for GUIs, and PDBC utilising SQLite3 (Extraction, Analysis and Visualization).",
@@ -170,7 +168,6 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Oct 2021 - Oct 2022",
     points: [
-      "Proficiency in programming languages such as C, Python, or JavaScript, and experience in developing small to medium-scale software applications.",
       "Understanding of networking concepts, including protocols, IP addressing, routing, and security measures.",
       "Exposure to artificial intelligence and machine learning concepts, including data analysis, pattern recognition, and algorithmic problem-solving.",
       "Masters Project: Transfer learning for classification of automobile models",
@@ -184,7 +181,6 @@ const experiences = [
     date: "Mar 2022 - present",
     points: [
       "Worked in a large team to deliver positive guest experiences.",
-      "Handled complaints and conflicts with a diplomatic approach.",
       "Delivered efficient five-star service in a fast-paced, fine dining establishment, serving [85]+ guests per shift.",
       "Showed equanimity in stressful situations and managed time constraints.",
     ],
