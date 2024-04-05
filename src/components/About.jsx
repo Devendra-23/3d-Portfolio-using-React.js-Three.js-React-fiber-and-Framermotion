@@ -51,28 +51,21 @@ const About = () => {
         <span className="text-[#FEFF86]"> MSc Software Systems graduate</span>
         &nbsp; from the
         <span className="text-[#79E0EE]"> University of Bath</span>,
-        specializing in software development. Proficient in{" "}
-        <span className="text-[#FA7070]">Python</span> and
+        specializing in software development. Currently employed as a{" "}
+        <span className="text-[#F6995C]"> Full-stack developer.</span>{" "}
+        Proficient in <span className="text-[#FA7070]">Python</span> and
         <span className="text-[#FFB72B]"> JavaScript</span>, I am expanding my
         skill set with expertise in frameworks like
         <span className="text-[#3797A4]"> React</span>,
         <span className="text-[#B3E283]"> Node.js</span>
-        <br className="sm:block hidden" /> and
-        <span className="text-[#EFBBCF]"> Three.js</span>. With a strong
-        understanding of web technologies, I create engaging and user-friendly
-        web applications. Experienced in front-end development using{" "}
-        <span className="text-[#D7FFFD]">HTML</span>,
-        <span className="text-[#F4FF61]"> CSS</span>, and{" "}
-        <span className="text-[#FFB72B]"> JavaScript</span>, I craft visually
-        appealing and responsive interfaces. Additionally,{" "}
-        <br className="sm:block hidden" /> I have a solid foundation in back-end
-        development, working with technologies like{" "}
-        <span className="text-[#B3E283]"> Node.js</span> and databases
-        including&nbsp;
-        <span className="text-[#27AA80]">MongoDB</span>
-        <br className="sm:block hidden" /> and{" "}
-        <span className="text-[#FF9234]">MySQL</span>. As a quick learner, I am
-        eager to collaborate closely with clients to deliver efficient,
+        {/* <br className="sm:block hidden" /> */} and
+        <span className="text-[#EFBBCF]"> Three.js</span>. Additionally, I am{" "}
+        <span className="text-[#FF8911]">AWS</span>{" "}
+        <span className="text-[#D7FFFD]">Cloud Certified</span> with a solid
+        foundation in back-end developmentand databases including&nbsp;
+        <span className="text-[#27AA80]">MongoDB </span>
+        and <span className="text-[#FF9234]">MySQL</span>. As a quick learner, I
+        am eager to collaborate closely with clients to deliver efficient,
         scalable, and user-friendly solutions.
         <span className="text-[#CCF0C3]">
           {" "}

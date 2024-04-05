@@ -34,6 +34,8 @@ import mumbai from "./company/Mumbai.png";
 import trivia from "./company/Trivia.png";
 import priston from "./company/Priston.png";
 import janah from "./company/Janah.png";
+import vosyn from "./company/vosyn.png";
+import kinewell from "./company/Kinewell.png";
 import smart from "./company/Smart.png";
 import bath from "./company/Bath.png";
 import python from "./tech/python.png";
@@ -41,6 +43,7 @@ import vsc from "./tech/vsc.png";
 import vgg from "./vgg.png";
 import responsive from "./responsive.png";
 import expensetracker from "./expensetracker.png";
+import weather from "./weather.png";
 
 export {
   logo,
@@ -83,4 +86,7 @@ export {
   expensetracker,
   responsive,
   aws,
+  vosyn,
+  kinewell,
+  weather,
 };

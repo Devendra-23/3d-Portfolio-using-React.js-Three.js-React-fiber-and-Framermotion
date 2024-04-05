@@ -35,6 +35,9 @@ import {
   responsive,
   janah,
   aws,
+  vosyn,
+  kinewell,
+  weather,
 } from "../assets";
 
 export const navLinks = [
@@ -54,7 +57,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full Stack Developer",
     icon: web,
   },
   {
@@ -62,7 +65,7 @@ const services = [
     icon: creator,
   },
   {
-    title: "Frontend Developer",
+    title: "DevOps",
     icon: web,
   },
   {
@@ -184,7 +187,7 @@ const experiences = [
     company_name: "Priston Mill",
     icon: priston,
     iconBg: "#383E56",
-    date: "Mar 2022 - present",
+    date: "Mar 2022 - Mar 2024",
     points: [
       "Worked in a large team to deliver positive guest experiences.",
       "Delivered efficient five-star service in a fast-paced, fine dining establishment, serving [85]+ guests per shift.",
@@ -196,12 +199,34 @@ const experiences = [
     company_name: "Janah Cycle",
     icon: janah,
     iconBg: "#E6DEDD",
-    date: "Oct 2023 - present",
+    date: "Oct 2023 - Nov 2024",
     points: [
       "Gained proficiency in Full Stack Web Development with React and Django, handling end-to-end solutions and AWS.",
       "Demonstrated DevOps skills by hosting the production branch on AWS EC2, ensuring seamless deployment.",
       "Managed Git tasks efficiently and contributed to codebase in React and Django for web development.",
+    ],
+  },
+  {
+    title: "Full-Stack Developer Intern",
+    company_name: "Vosyn",
+    icon: vosyn,
+    iconBg: "#383E56",
+    date: "Jan 2024 - Feb 2024",
+    points: [
+      "Worked with React.js for Frontend development.",
+      "REST API Django framework for backend development.",
       "Engaged in Agile sprint meetings, fostering collaboration within cross-functional teams.",
+    ],
+  },
+  {
+    title: "Full-Stack Developer",
+    company_name: "Kinewell Energy",
+    icon: kinewell,
+    iconBg: "#E6DEDD",
+    date: "March 2024 - Present",
+    points: [
+      "Working with Jinja2, JavaScript, PostgreSQL, Python, and Flask, with a focus on implementing MVT structure along with AzureDevOps tasks.",
+      "Engineered a language mapping translation project to enhance the user experience of web applications.",
     ],
   },
 ];
@@ -279,9 +304,9 @@ const projects = [
       "https://github.com/Devendra-23/Expense-Tracker-using-React.js",
   },
   {
-    name: "Responsive E-commerce Website",
+    name: "Weather Forecast App using API Integration",
     description:
-      "Using HTML and CSS to automatically resize, conceal, shrink, or enlarge a website so that it looks excellent on all devices is known as responsive web design (desktops, tablets, and phones). This project involves creating a responsive e-commerce website with numerous HTML, CSS, and JavaScript properties.",
+      "Developed a MVC website using Python, Django, HTML, CSS, and JavaScript, enabling users to seamlessly check wind conditions and forecasts for global locations. Integrated GeoNames API for location suggestions and OpenWeather API for accurate weather data.",
     tags: [
       {
         name: "JavaScript",
@@ -295,9 +320,14 @@ const projects = [
         name: "CSS",
         color: "pink-text-gradient",
       },
+      {
+        name: "Python",
+        color: "orange-text-gradient",
+      },
     ],
-    image: responsive,
-    source_code_link: "https://github.com/Devendra-23/E-commerce-Shop",
+    image: weather,
+    source_code_link:
+      "https://github.com/Devendra-23/Weather_Forecast_App-using-API-Integration",
   },
 ];
 
