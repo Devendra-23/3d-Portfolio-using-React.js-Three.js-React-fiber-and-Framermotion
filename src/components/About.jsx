@@ -49,7 +49,7 @@ const About = () => {
       >
         Welcome to my portfolio website! I am an
         <span className="text-[#FEFF86]"> MSc Software Systems graduate</span>
-        &nbsp; from the
+        &nbsp;from the
         <span className="text-[#79E0EE]"> University of Bath</span>,
         specializing in software development. Currently employed as a{" "}
         <span className="text-[#F6995C]"> Full-stack developer.</span>{" "}
@@ -58,14 +58,14 @@ const About = () => {
         skill set with expertise in frameworks like
         <span className="text-[#3797A4]"> React</span>,
         <span className="text-[#B3E283]"> Node.js</span>
-        {/* <br className="sm:block hidden" /> */} and
+        {/* <br className="sm:block hidden" /> */} &
         <span className="text-[#EFBBCF]"> Three.js</span>. Additionally, I am{" "}
         <span className="text-[#FF8911]">AWS</span>{" "}
         <span className="text-[#D7FFFD]">Cloud Certified</span> with a solid
-        foundation in back-end developmentand databases including&nbsp;
-        <span className="text-[#27AA80]">MongoDB </span>
-        and <span className="text-[#FF9234]">MySQL</span>. As a quick learner, I
-        am eager to collaborate closely with clients to deliver efficient,
+        foundation in back-end development & databases including&nbsp;
+        <span className="text-[#27AA80]">MongoDB </span>&{" "}
+        <span className="text-[#FF9234]">MySQL</span>. As a quick learner, I am
+        eager to collaborate closely with clients to deliver efficient,
         scalable, and user-friendly solutions.
         <span className="text-[#CCF0C3]">
           {" "}
